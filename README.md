@@ -1,1 +1,1 @@
-test
+## This repository is managed as a submodule. Please check the submodule.
