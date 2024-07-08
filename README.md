@@ -1,6 +1,11 @@
+<div align=center>
 # Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View
 
 Author : Sibeak Lee, Kyeongsu Kang and Hyeonwoo Yu
+
+<h3 align="center"> IROS 2024 </h3>
+
+</div>
 
 <br/>
 
